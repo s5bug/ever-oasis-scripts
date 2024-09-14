@@ -1,0 +1,1158 @@
+[   0] is_player
+[   1] get_player
+[   2] get_actor_by_layout
+[   3] set_actor_position
+[   4] set_actor_position_angle_y
+[   5] set_actor_pos_by_tagpoint
+[   6] set_actor_position_with_hitbgobj
+[   7] is_set_actor_position_finished
+[   8] set_actor_scale
+[   9] get_actor_position
+[  10] get_actor_position_x
+[  11] get_actor_position_y
+[  12] get_actor_position_z
+[  13] get_actor_shadow_position
+[  14] get_actor_angle_y
+[  15] get_actor_to_actor_angle_y
+[  16] set_actor_angleY
+[  17] set_actor_shape_angleX
+[  18] set_actor_shape_angleZ
+[  19] set_player_along_slope
+[  20] reset_player_along_slope
+[  21] set_actor_shadow_visible
+[  22] set_actor_visible
+[  23] set_actor_visible_fade
+[  24] is_actor_visible
+[  25] set_actor_mesh_visible
+[  26] is_actor_mesh_visible
+[  27] set_actor_collision
+[  28] set_bgobj_actor_collision
+[  29] set_building_actor_collision
+[  30] dump_actor
+[  31] get_hactor
+[  32] get_hactor_by_chara_id
+[  33] get_hactor_by_building_id
+[  34] get_hactor_by_bgobj_id
+[  35] get_hactor_by_enemy_id
+[  36] is_open_shop
+[  37] is_shop_opening_times
+[  38] shopping
+[  39] set_building_rank
+[  40] set_building_rank_with_demo
+[  41] create_actor
+[  42] create_temp_actor
+[  43] create_generation_grass
+[  44] create_etc_actor
+[  45] import_vlyt
+[  46] import_player_to_tempdb
+[  47] is_imported
+[  48] import_mytown_layout
+[  49] destroy_actor
+[  50] get_actor_dbkey
+[  51] get_dbkey_by_charaId
+[  52] is_actor_action
+[  53] is_action_finished
+[  54] set_actor_charabit
+[  55] reset_actor_charabit
+[  56] test_actor_charabit
+[  57] load_actor_archive
+[  58] load_actor_archive_direct
+[  59] is_archive_loaded
+[  60] start_actor_motion
+[  61] start_actor_motion_auto_idle
+[  62] start_actor_motion_cut_interp
+[  63] start_actor_motion_direct
+[  64] is_motion_running
+[  65] is_motion_finished
+[  66] stop_actor_motion
+[  67] end_actor_motion
+[  68] set_player_sleep
+[  69] set_demo_event
+[  70] set_demo_event_actor
+[  71] register_player_responder
+[  72] unregister_player_responder
+[  73] set_player_responder_caption
+[  74] set_player_responder_enabled
+[  75] set_actor_bit
+[  76] reset_actor_bit
+[  77] test_actor_bit
+[  78] begin_response_action
+[  79] is_response_action_finished
+[  80] set_player_change
+[  81] set_grass_naturally_rate
+[  82] get_actor_count
+[  83] get_actor_part
+[  84] exists_actor
+[  85] unlock_shop_menu
+[  86] lock_shop_menu
+[  87] get_stock_num
+[  88] exist_stock_in_zone
+[  89] sale_stock_shop
+[  90] get_owner_chara_id
+[  91] start_greening_demo
+[  92] set_greening_demo_scale
+[  93] set_greening_demo_move
+[  94] set_shop_door_state
+[  95] start_real_time_direction
+[  96] set_actor_facial
+[  97] reset_actor_facial
+[  98] get_have_exp_party_num
+[  99] save_partymember_exp_up
+[ 100] smile_is_level_up
+[ 101] smile_is_exp_up
+[ 102] check_party_member_level_param
+[ 103] create_archive_group
+[ 104] add_archive_group_member
+[ 105] load_archive_group_member
+[ 106] destroy_archive_group_member
+[ 107] set_disable_gravity
+[ 108] set_gravity_scale
+[ 109] set_town_grid_visibility
+[ 110] interp_actor_position
+[ 111] load_composition_demo_actor_archive
+[ 112] create_composition_actor
+[ 113] set_enable_culling
+[ 114] set_disable_culling
+[ 115] start_happower
+[ 116] shop_rank_up
+[ 117] get_owner_new_skill_id
+[ 118] get_owner_new_skill_text_id
+[ 119] start_before_rank_up_motion
+[ 120] request_load_next_rank_building_resource_archive
+[ 121] set_building_effect_visible
+[ 122] set_sandhill_visible
+[ 123] actor_local_to_world
+[ 124] get_actor_direction
+[ 125] switch_demo_bg
+[ 126] get_shop_rank
+[ 127] get_acotr_dist_sq
+[ 128] release_actor_archive
+[ 129] move_player_by_vendor_tent_point
+[ 130] is_item_get_effect
+[ 131] is_damage_action
+[ 132] create_switch_actor
+[ 133] create_broken_obj_actor
+[ 134] create_switch
+[ 135] change_switch
+[ 136] toggle_switch
+[ 137] lock_switch
+[ 138] destroy_switch
+[ 139] get_switch_state
+[ 140] fixed_switch_on
+[ 141] change_state_switch_actor
+[ 142] get_state_switch_actor
+[ 143] is_switch_actor
+[ 144] change_door
+[ 145] lock_door
+[ 146] is_enable_open_door
+[ 147] is_door_actor_state
+[ 148] request_switch_link_action
+[ 149] can_switch_link_action
+[ 150] change_hieroglyph_pedestal_panel
+[ 151] begin_bgobj_route_que
+[ 152] end_bgobj_route_que
+[ 153] add_bgobj_route_que
+[ 154] request_destroy_bgobj_actor
+[ 155] set_enable_bgobj_responder
+[ 156] get_enable_bgobj_responder
+[ 157] set_offset_bgobj_responder
+[ 158] set_enable_bgobj_bright
+[ 159] set_bgobj_power_rate
+[ 160] set_bgobj_enemy_power_rate
+[ 161] set_bgobj_maxhp
+[ 162] register_bgobjgroup
+[ 163] register_bgobjgroup_for_dungeon
+[ 164] is_exsists_bgobj
+[ 165] create_bgobj_from_res
+[ 166] destroy_bgobj_by_group_id
+[ 167] get_bgobjgroup_num
+[ 168] get_bgobj_ids
+[ 169] get_door_obj_ids
+[ 170] get_all_door_hact
+[ 171] get_bgobj_ids_without_door
+[ 172] get_bgobj_group_ids_by_area_id
+[ 173] clear_bgobj_respawn
+[ 174] clear_scene_bgobj_respawn
+[ 175] clear_all_bgobj_respawn
+[ 176] change_bgobj_collision_transparent
+[ 177] reset_bgobj_collision_transparent
+[ 178] destroy_all_sand_hill
+[ 179] get_bgobj_pos
+[ 180] get_bgobj_angle
+[ 181] get_bgobj_room_id
+[ 182] is_valid_bgobj_option
+[ 183] get_bgobj_option_state
+[ 184] get_bgobj_option_mode
+[ 185] get_bgobj_option_autooff_interval
+[ 186] get_bgobj_option_state_default
+[ 187] get_bgobj_option_notification_interval
+[ 188] get_bgobj_option_block_type
+[ 189] get_bgobj_option_door_type
+[ 190] get_bgobj_option_door_lock_type
+[ 191] get_bgobj_option_door_state
+[ 192] get_bgobj_option_lightobj_env_id
+[ 193] get_bgobj_option_flag_var_key
+[ 194] get_bgobj_option_change_act_flag_index
+[ 195] get_bgobj_option_lock_flag_index
+[ 196] get_bgobj_option_bgobj_mode
+[ 197] get_bgobj_option_attack_id
+[ 198] get_bgobj_option_drop_table_id
+[ 199] get_bgobj_option_frame
+[ 200] get_bgobj_option_float_param
+[ 201] get_bgobj_option_float_param_array
+[ 202] get_bgobj_option_integer_param
+[ 203] get_bgobj_option_integer_param_array
+[ 204] get_bgobj_option_phantom_id
+[ 205] get_bgobj_option_enemy_group_id
+[ 206] get_bgobj_option_reaction_id
+[ 207] get_bgobj_option_link_layout_id_array
+[ 208] get_bgobj_option_route_id
+[ 209] set_bgobj_option_door_type
+[ 210] set_bgobj_option_door_lock_type
+[ 211] set_bgobj_option_door_state
+[ 212] set_bgobj_option_switch_state
+[ 213] set_bgobj_option_switch_mode
+[ 214] set_bgobj_option_bgobj_mode
+[ 215] set_bgobj_option_motion_array
+[ 216] set_bgobj_option_frame
+[ 217] set_bgobj_option_autooff_interval
+[ 218] set_bgobj_option_notification_interval
+[ 219] set_bgobj_option_off_draw_disable
+[ 220] set_bgobj_option_attack_id
+[ 221] set_bgobj_option_float_param
+[ 222] set_bgobj_option_drop_table_id
+[ 223] set_bgobj_data_create_with_collision
+[ 224] set_bgobj_option_create_as_breakable
+[ 225] set_bgobj_option_create_as_switch
+[ 226] set_bgobj_option_sw_camera_shake
+[ 227] check_bgobj_respawn
+[ 228] get_portal_database_key
+[ 229] is_portal_activate
+[ 230] set_portal_active_flag
+[ 231] get_portal_warp_select_message_id
+[ 232] portal_warp
+[ 233] get_portal_warp_pos_angle
+[ 234] is_enable_use_portal
+[ 235] is_portal_select_warp_gate
+[ 236] start_bgobj_effect
+[ 237] end_bgobj_effect
+[ 238] get_route_begin_pos
+[ 239] get_route_end_pos
+[ 240] create_temp_actor_in_bgobj_group
+[ 241] set_route_id_to_party_ai
+[ 242] reset_route_id_to_party_ai
+[ 243] after_initialize_hiero_door
+[ 244] send_to_bgobj
+[ 245] get_bgobj_user_data
+[ 246] load_multi_item_model_archive
+[ 247] create_multi_item_model_actor
+[ 248] request_multi_item_model_action
+[ 249] load_multi_item_model_archive_by_item_key
+[ 250] create_multi_item_model_actor_by_item_key
+[ 251] set_event_stop
+[ 252] request_moving_bgobj_translate
+[ 253] request_moving_bgobj_rotate
+[ 254] request_moving_bgobj_scale
+[ 255] set_unit_id_to_group_manager
+[ 256] request_moving_bgobj_composition_demo
+[ 257] request_gear_rotate
+[ 258] hiero_altar_of_light_is_hit_tornado
+[ 259] get_enemygroup_by_generator
+[ 260] get_launch_rocket_handle
+[ 261] set_baloon_unbreakable
+[ 262] reset_baloon
+[ 263] set_baloon_flag
+[ 264] request_gear_rotate2
+[ 265] request_gear_rotate3
+[ 266] request_moving_bgobj_accel
+[ 267] request_moving_bgobj_slowdown
+[ 268] request_moving_bgobj_spline_move
+[ 269] request_gear_height
+[ 270] get_gear_angle_x
+[ 271] get_gear_angle_y
+[ 272] get_gear_angle_z
+[ 273] change_gear_collision_model
+[ 274] switch_actor_gear_attach
+[ 275] set_bgobj_cid_material
+[ 276] is_hiero_sand_hill
+[ 277] get_hiero_sand_hill_type
+[ 278] request_multi_item_model_bring_action
+[ 279] is_same_unit_id_bgobj
+[ 280] bgobj_mural_anim_on
+[ 281] start_portal_pause
+[ 282] end_portal_pause
+[ 283] enable_gear_collision_model
+[ 284] bgobj_fd4sand_anim_on
+[ 285] bgobj_fd4sand_anim_off
+[ 286] debug_is_check_rank_up_mode
+[ 287] play_gear_axis_anim
+[ 288] stop_hiero_altar_of_light_rolling_se
+[ 289] is_finished_chaos_grass
+[ 290] mine_set_visible
+[ 291] disp_pendulum_shadow_anim
+[ 292] get_bgobj_id_by_handle
+[ 293] reset_pendulum_motion
+[ 294] is_enable_active_hiero_alter_of_light
+[ 295] create_luminous
+[ 296] reset_luminous_item_drop
+[ 297] enable_camera_dist_fade_bgobj
+[ 298] destory_bgobj_when_return_gate
+[ 299] force_reset_moving_pillar_pos
+[ 300] get_portal_message_id
+[ 301] set_enable_fixed_artillery_event
+[ 302] get_charaid
+[ 303] get_penkurows
+[ 304] get_least_penkurow_id_in_oasis
+[ 305] go_into_shop
+[ 306] go_outside_shop
+[ 307] ride_attraction
+[ 308] get_equipped
+[ 309] equip
+[ 310] begin_actor_look_near_player
+[ 311] end_actor_look_near_player
+[ 312] set_actor_look_near_player_param
+[ 313] begin_actor_look_target
+[ 314] end_actor_look_target
+[ 315] is_quest_npc_actor
+[ 316] idle_actor
+[ 317] is_actor_equipping_weapon
+[ 318] is_actor_weapon_in_hand
+[ 319] set_spirit_idle_mild
+[ 320] turn_actor
+[ 321] is_actor_turning
+[ 322] move_actor
+[ 323] move_isun_and_scarab_actor
+[ 324] leave_player
+[ 325] move_actor_into_building
+[ 326] is_actor_moving
+[ 327] is_actor_leaving
+[ 328] random_move_actor_circle
+[ 329] random_move_actor_square
+[ 330] move_fly_actor
+[ 331] is_actor_move_flying
+[ 332] fadein_actor_alpha
+[ 333] fadeout_actor_alpha
+[ 334] fade_actor_brightness
+[ 335] is_talk_ready
+[ 336] is_demo_event_ready
+[ 337] is_demo_event_actor_ready
+[ 338] force_visible_actor_name_plate
+[ 339] create_actor_override_name_plate
+[ 340] delete_actor_override_name_plate
+[ 341] start_actor_lip
+[ 342] stop_actor_lip
+[ 343] is_player_alive
+[ 344] set_actor_talk_action
+[ 345] begin_talk_action
+[ 346] is_have_skill
+[ 347] set_skill
+[ 348] lock_player_action
+[ 349] unlock_player_action
+[ 350] is_player_action_locked
+[ 351] visible_actor_name_plate
+[ 352] get_town_account
+[ 353] get_town_account_by_chara_id
+[ 354] set_town_account_resident
+[ 355] set_town_account_specialty
+[ 356] get_actor_heart_status
+[ 357] fix_actor_heart_index
+[ 358] fix_actor_heart_index_by_chara_id
+[ 359] fix_actor_heart_max
+[ 360] fix_actor_heart_max_by_chara_id
+[ 361] is_actor_heart_max
+[ 362] is_actor_heart_max_fix_only
+[ 363] is_no_match_heart_shop_condition
+[ 364] start_actor_heart_effect
+[ 365] end_actor_heart_effect
+[ 366] is_end_actor_heart_effect
+[ 367] allow_actor_head_info
+[ 368] start_actor_head_icon
+[ 369] update_actor_head_info
+[ 370] get_actor_visitor_status
+[ 371] get_actor_visitor_status_by_chara_id
+[ 372] set_actor_visitor_status
+[ 373] set_actor_visitor_status_by_chara_id
+[ 374] clear_actor_visitor_status
+[ 375] clear_actor_visitor_status_by_chara_id
+[ 376] get_actor_visitor_random_message_offset
+[ 377] get_actor_resident_random_message_offset
+[ 378] get_actor_resident_greet_message_offset
+[ 379] get_actor_resident_important_message_offset
+[ 380] get_actor_resident_quest_start_message
+[ 381] get_actor_resident_quest_accept_message
+[ 382] get_actor_resident_quest_clear_message
+[ 383] switch_visitor_list_state
+[ 384] get_visitor_list_state
+[ 385] start_visitor_list_update_ui
+[ 386] start_visitor_list_update_ui_force_rumor
+[ 387] is_finish_visitor_list_update_ui
+[ 388] start_traveler_visit_list_ui
+[ 389] set_traveler_visit_flag
+[ 390] open_resident_system_message
+[ 391] open_resident_building_message
+[ 392] set_actor_talk_enabled
+[ 393] get_shop_build_count
+[ 394] get_chara_event_talk_flag_id
+[ 395] set_event_situation
+[ 396] clear_event_situation
+[ 397] is_grassland_situation
+[ 398] default_player_run_event_move
+[ 399] get_all_owner_chara_id
+[ 400] change_collision_solve_group
+[ 401] reset_collision_solve_group
+[ 402] change_chara_collision_transparent
+[ 403] reset_chara_collision_transparent
+[ 404] set_chara_nextpos_by_tagpoint
+[ 405] set_motion_frame
+[ 406] has_battle_skill
+[ 407] full_tank_sp
+[ 408] revive
+[ 409] recovery_confusion_bind
+[ 410] player_skill_level_up
+[ 411] start_follow_actor
+[ 412] end_follow_actor
+[ 413] update_equip_model
+[ 414] is_equip_model_finished
+[ 415] start_skill_failed_action
+[ 416] set_name_offset_y
+[ 417] request_parabola_move_action
+[ 418] is_dead
+[ 419] is_chara_actor_falling
+[ 420] set_building_scale
+[ 421] set_building_floor_collision
+[ 422] set_building_name_visible
+[ 423] request_building_motion
+[ 424] get_building_handle_array
+[ 425] get_building_entrance_position
+[ 426] get_building_internal_position
+[ 427] request_building_shake_action
+[ 428] start_idle_town_npc
+[ 429] end_idle_town_npc
+[ 430] start_idle_town_npc_single
+[ 431] end_idle_town_npc_single
+[ 432] start_invisible_town_npc
+[ 433] end_invisible_town_npc
+[ 434] vanish_town_npc
+[ 435] start_invisible_town_bg_parts
+[ 436] end_invisible_town_bg_parts
+[ 437] demo_route_move_actor
+[ 438] setup_rich_demo_bgfield
+[ 439] set_rich_demo_skydome_time
+[ 440] register_rich_demo_layout_id
+[ 441] set_pos_angle_time_line_demo_layout_id
+[ 442] start_rich_demo
+[ 443] is_rich_demo_finished
+[ 444] invisible_richdemo_object
+[ 445] build_time_line_demo
+[ 446] register_time_line_demo_layout_id
+[ 447] play_time_line_demo
+[ 448] is_time_line_demo_finished
+[ 449] finalize_time_line_demo
+[ 450] demo_reset_actor_collision
+[ 451] demo_revive_actor_collision
+[ 452] set_time_line_property
+[ 453] set_construction_demo_building_property
+[ 454] create_mini_game_ricos_actor
+[ 455] mini_game_ricos_catch_func
+[ 456] start_mini_game_ricos_camera_event
+[ 457] start_isuna_shuto_event
+[ 458] pause_time_line_demo
+[ 459] initialize_mix_tree_demo
+[ 460] finalize_mix_tree_demo
+[ 461] is_debug_demo_viewer_scene
+[ 462] event_reset_field_env
+[ 463] event_change_field_chaos_env
+[ 464] create_event_scoop
+[ 465] destroy_event_scoop
+[ 466] quaze_event_reset_env
+[ 467] quaze_event_change_env
+[ 468] composition_event_set_env
+[ 469] composition_event_reset_env
+[ 470] create_enemygroup
+[ 471] add_enemygroup_param
+[ 472] get_rest_enemy_num_in_group
+[ 473] check_enemy_respawn
+[ 474] create_actor_from_enemygroup
+[ 475] destroy_actor_from_enemygroup
+[ 476] get_enemygroup_id
+[ 477] get_num_of_enemy
+[ 478] clear_enemy_respawn
+[ 479] clear_scene_enemy_respawn
+[ 480] clear_all_enemy_respawn
+[ 481] set_enemy_sleep
+[ 482] register_enemygroup
+[ 483] register_enemygroup_for_dungeon
+[ 484] create_enemy_archive_group
+[ 485] create_enemy_archive_group_for_dungeon
+[ 486] create_enemy_archive_group_for_hieroglyph
+[ 487] get_enemygroup_member
+[ 488] get_enemy_id
+[ 489] is_enemy_pop_demo
+[ 490] boss_pop_demo_notify
+[ 491] get_enemy_handle
+[ 492] reset_enemy_drop_item
+[ 493] pop_enemy_inside_area
+[ 494] pop_hidden_enemy_inside_area
+[ 495] depop_enemy_outside_area
+[ 496] is_enemy_alive_inside_area
+[ 497] deactivate_enemy_group
+[ 498] activate_enemy_group
+[ 499] set_hide_pop_to_enemy_group
+[ 500] reset_hide_pop_to_enemy_group
+[ 501] allow_pop_to_enemy_group
+[ 502] set_for_event_to_enemy_group
+[ 503] set_target_phantom
+[ 504] register_field_pop_include_enemygroup_id
+[ 505] unregister_field_pop_include_enemygroup_id
+[ 506] register_field_pop_exclude_enemygroup_id
+[ 507] unregister_field_pop_exclude_enemygroup_id
+[ 508] revival_enemygroup
+[ 509] set_enemy_level
+[ 510] set_enemy_group_level
+[ 511] get_chaos_kelp_tentacles
+[ 512] send_signal_to_chaos_kelp
+[ 513] activate_chaos_kelp_fence
+[ 514] deactivate_chaos_kelp_fence
+[ 515] chaos_kelp_fence_is_active
+[ 516] chaos_kelp_fence_anim_is_finished
+[ 517] set_chaos_kelp_fence_range
+[ 518] get_pteranofrog_ring_center
+[ 519] request_begin_2nd_phase_to_pteranofrog
+[ 520] prepare_kokuryu_battle_bgm
+[ 521] kokuryu_battle_bgm_is_prepared
+[ 522] play_kokuryu_battle_bgm
+[ 523] set_kokuryu_corrode_phase_env
+[ 524] set_kokuryu_corrode_rate
+[ 525] request_kokuryu_corrode_phase
+[ 526] play_kokuryu_corrode_puddle_effect
+[ 527] play_kokuryu_corrode_result_effect
+[ 528] knock_down_kokuryu
+[ 529] request_kokuryu_phase_shift
+[ 530] set_enemy_ai_request
+[ 531] set_enemygroup_ai_request
+[ 532] found_player_by_enemy
+[ 533] found_player_by_enemygroup
+[ 534] destroy_enemy_outside_area
+[ 535] is_battle_enemygroup
+[ 536] start_enemy_mission_target_cursor
+[ 537] fd4_kujatoris_move_down
+[ 538] is_enable_create_enemy
+[ 539] get_active_enemy_num
+[ 540] set_enemy_disp_target_cursol
+[ 541] setup_demo_for_syuto_magic_rod
+[ 542] hiero_offset_enemy_create_pos
+[ 543] hiero_shuffle_enemy_create_pos
+[ 544] begin_field_enemy_pop_manager
+[ 545] is_enemy_accept_lock_on
+[ 546] add_party
+[ 547] set_operation_player
+[ 548] get_party
+[ 549] get_party_count
+[ 550] exists_party
+[ 551] get_party_except
+[ 552] get_party_index
+[ 553] get_party_order
+[ 554] get_party_chara_id
+[ 555] remove_party
+[ 556] remove_party_index
+[ 557] remove_party_by_kind
+[ 558] remove_party_by_chara_id
+[ 559] is_full_party
+[ 560] remove_party_all
+[ 561] set_weapon_slot
+[ 562] reset_party_position
+[ 563] reset_party_overhead_of_pl
+[ 564] heal_party
+[ 565] heal_party_emit_effect
+[ 566] recovery_abnormal
+[ 567] is_party_hp_full
+[ 568] get_party_kind
+[ 569] create_debug_party_actor_id
+[ 570] create_debug_party_actor
+[ 571] set_debug_party_level
+[ 572] is_exist_chara_id_in_party
+[ 573] update_player_home_pos_angle_y
+[ 574] set_party_gravity_scale
+[ 575] get_return_pos_of_aqua_gate
+[ 576] change_player_actor
+[ 577] change_camera
+[ 578] push_camera
+[ 579] pop_camera
+[ 580] get_camera_type
+[ 581] reset_railcamera
+[ 582] register_railcamera
+[ 583] set_railcamera_no
+[ 584] set_railcamera_fixed
+[ 585] get_railcamera_no
+[ 586] set_railcamera_limit
+[ 587] set_camera_target
+[ 588] reset_camera_target
+[ 589] is_finished_camera_target
+[ 590] init_petit
+[ 591] init_and_set_petit
+[ 592] set_petit_src_param
+[ 593] set_petit_dst_param
+[ 594] set_petit_slide_dst_to_src
+[ 595] begin_petit
+[ 596] end_petit
+[ 597] get_petit_param
+[ 598] is_finished_petit
+[ 599] get_reset_param_of_behind_camera
+[ 600] reset_behind_camera
+[ 601] get_reset_param_of_rail_camera
+[ 602] get_reset_param_of_fixed_camera
+[ 603] begin_demo_camera
+[ 604] get_demo_camera_param
+[ 605] get_demo_camera_frame
+[ 606] is_demo_camera_finished
+[ 607] end_demo_camera
+[ 608] start_camera_shake
+[ 609] stop_camera_shake
+[ 610] start_camera_shake_by_preset
+[ 611] begin_talk_camera_zoom_in
+[ 612] begin_talk_camera_zoom_in_by_position
+[ 613] begin_talk_camera_zoom_out
+[ 614] is_talk_camera_ready
+[ 615] is_talk_camera_finished
+[ 616] end_talk_camera
+[ 617] begin_fixed_camera
+[ 618] begin_fixed_camera_to_hactor
+[ 619] end_fixed_camera
+[ 620] end_fixed_camera_to_hactor
+[ 621] set_camera_near
+[ 622] set_camera_far
+[ 623] get_camera_near
+[ 624] get_camera_far
+[ 625] get_current_camera_pos
+[ 626] get_phantom_type
+[ 627] get_phantom_value
+[ 628] get_phantom_type_and_value
+[ 629] get_phantom_type_parameter
+[ 630] get_phantom_direction
+[ 631] get_leave_phantom_direction
+[ 632] get_phantom_pos
+[ 633] get_phantom_in_contact
+[ 634] set_collision_sys_group
+[ 635] reset_collision_sys_group
+[ 636] get_charadb
+[ 637] get_charadb_by_chara_id
+[ 638] get_grassdb
+[ 639] get_dyn_charadb
+[ 640] get_buildingdb
+[ 641] get_buildingdb_by_building_id
+[ 642] get_dyn_buildingdb
+[ 643] get_itemdb
+[ 644] get_npc_questdb
+[ 645] get_spirit_questdb
+[ 646] create_dungeon
+[ 647] create_hiero_dungeon
+[ 648] destroy_dungeon
+[ 649] exists_dungeon
+[ 650] dungeon_setup_parameter
+[ 651] get_dungeon_unit_name
+[ 652] get_dungeon_unit_index_by_room
+[ 653] load_next_room
+[ 654] load_next_room_by_area_id
+[ 655] is_room_loaded
+[ 656] get_room_position
+[ 657] get_dungeon_parts_position
+[ 658] set_nextroom_sceneenv
+[ 659] set_nextroom_sceneenv_by_area_id
+[ 660] register_dungeon_skill
+[ 661] unregister_dungeon_skill
+[ 662] update_room_scene_env
+[ 663] get_dungeon_slot
+[ 664] get_dungeon_start_pos
+[ 665] get_dungeon_start_degree
+[ 666] get_dungeon_event_name
+[ 667] has_dungeon_start_event
+[ 668] get_dungeon_bgm_id
+[ 669] get_room_id_by_area_id
+[ 670] get_area_id_by_room_id
+[ 671] get_origin_room_id
+[ 672] is_from_town_gate
+[ 673] is_enabled_room
+[ 674] is_enabled_area
+[ 675] get_boss_area_type
+[ 676] is_from_save_data
+[ 677] register_boss_symbol
+[ 678] register_dungeon_exit_symbol
+[ 679] register_antlion_symbol
+[ 680] get_room_switch_phantom_pos_by_area_id
+[ 681] get_room_switch_phantom_pos_value_by_layout_id
+[ 682] get_room_switch_phantom_id_list
+[ 683] get_event_phantom_id_list
+[ 684] set_enable_room
+[ 685] is_active_dungeon_exist
+[ 686] shift_current_room_id
+[ 687] set_hiero_scene_id_offset
+[ 688] get_dungeon_parts_size
+[ 689] create_eff
+[ 690] destroy_eff
+[ 691] force_kill_eff
+[ 692] change_texptn_eff
+[ 693] initialize_talk_event
+[ 694] finalize_talk_event
+[ 695] create_talk_event_actor_pos_angle
+[ 696] create_talk_event_actor_pos_x_and_angle_y
+[ 697] create_talk_event_actor_index
+[ 698] create_temp_talk_event_actor_index
+[ 699] set_talk_event_actor_pos_angle
+[ 700] set_talk_event_actor_pos_index
+[ 701] set_talk_event_actor_pos_index_and_pos_y
+[ 702] set_talk_event_actor_angle
+[ 703] set_talk_event_actor_angle_index
+[ 704] get_talk_event_actor_pos_x
+[ 705] get_talk_event_actor_angle_y
+[ 706] set_talk_actor_visible
+[ 707] set_talk_actor_fade_in
+[ 708] set_talk_actor_fade_out
+[ 709] talk_actor_slide_move
+[ 710] add_talk_actor_pos_z
+[ 711] set_talk_event_global_ambient
+[ 712] set_talk_event_light_color_0
+[ 713] set_talk_event_light_color_1
+[ 714] set_talk_event_specular_0
+[ 715] set_talk_event_specular_1
+[ 716] initialize_hieroglyph
+[ 717] finalize_hieroglyph
+[ 718] setup_hieroglyph_room
+[ 719] open_hiero_door_process
+[ 720] get_hiero_door_room_type
+[ 721] get_hiero_door_symbol_type
+[ 722] check_enable_create_by_hiero
+[ 723] change_fix_hiero_item
+[ 724] is_enable_hiero_atlar_activation
+[ 725] request_hiero_symbol_switch_on
+[ 726] request_hiero_symbol_switch_on_step2
+[ 727] is_bring_special_hiero_item
+[ 728] regist_hiero_item
+[ 729] get_ui_hiero_fixed_panel
+[ 730] check_hiero_achieve
+[ 731] set_hiero_altar_mesh
+[ 732] set_hiero_altar_mesh_special
+[ 733] change_hiero_special_effect
+[ 734] get_room_type_by_area_id
+[ 735] get_current_hiero_id
+[ 736] get_hiero_shuffle_original_layout_id
+[ 737] get_hiero_boss_type
+[ 738] change_hiero_env
+[ 739] is_hieroglyph_dungeon
+[ 740] register_hiero_destroy_check_enemy_group
+[ 741] is_hiero_blank_treasure_box
+[ 742] get_hiero_goal_treasure_box_item
+[ 743] start_hiero_item_get_count
+[ 744] is_hiero_special_boss
+[ 745] is_hiero_boss_morbor
+[ 746] change_hiero_goal_env
+[ 747] reset_hiero_goal_env
+[ 748] reset_ankh_altar_mesh
+[ 749] debug_update_hiero_flag_area
+[ 750] set_hiero_boss_battle
+[ 751] get_area_id_by_room_info_idx
+[ 752] lock_room_type
+[ 753] set_hiero_item
+[ 754] get_quest_status
+[ 755] run_quest
+[ 756] return_to_idle_quest
+[ 757] finish_quest
+[ 758] debug_release_quest
+[ 759] debug_release_mission
+[ 760] get_quest_handle
+[ 761] get_npc_quest_handle
+[ 762] get_running_npc_quest_handle
+[ 763] get_running_npc_quest_owner_id
+[ 764] check_supply_quest
+[ 765] is_npc_quest_accompanying
+[ 766] check_npc_quest_accompanying
+[ 767] is_npc_quest_hide_target_actor
+[ 768] get_npc_quest_start_event_id
+[ 769] get_npc_quest_end_event_id
+[ 770] get_npc_quest_info_level
+[ 771] set_npc_quest_info_unlock
+[ 772] check_quest_get_item
+[ 773] start_npc_quest_clear_ui
+[ 774] set_mission_ui_to_do
+[ 775] delete_mission_ui_to_do
+[ 776] get_quest_message_id
+[ 777] check_spirit_level_up
+[ 778] check_spirit_level_up_equal
+[ 779] get_after_level_up_event_id
+[ 780] get_before_level_up_event_id
+[ 781] is_running_scenario_mission
+[ 782] scenario_mission_start
+[ 783] scenario_mission_complete
+[ 784] scenario_mission_level_up
+[ 785] setup_enemygroup_for_quest
+[ 786] check_quest_running
+[ 787] get_running_quest_key
+[ 788] check_mission_running
+[ 789] check_mission_running_range
+[ 790] check_mission_completed
+[ 791] force_mission_start_event
+[ 792] force_mission_complete_event
+[ 793] check_optional_quest_completed
+[ 794] check_optional_quest_running
+[ 795] force_optional_quest_event
+[ 796] run_get_item_optional_quest
+[ 797] run_realtime_check_optional_quest
+[ 798] delete_idle_optional_quest
+[ 799] delete_ruuning_optional_quest
+[ 800] replace_mission_map_symbol
+[ 801] create_extend_mission_map_symbol
+[ 802] delete_extend_mission_map_symbol
+[ 803] request_auto_run_mission
+[ 804] get_running_mission_no
+[ 805] get_quest_enemy_group
+[ 806] create_encounter_npc
+[ 807] destroy_encounter_npc_all
+[ 808] get_encounter_npc_handle
+[ 809] get_encounter_npc_handle_all
+[ 810] is_encounter_npc
+[ 811] get_encounter_key
+[ 812] get_encounter_status
+[ 813] is_encounter_name_hide
+[ 814] finish_encounter_name_hide
+[ 815] encounter_use_temp_party
+[ 816] get_encounter_need_skill
+[ 817] encounter_npc_join_party
+[ 818] run_sub_mission
+[ 819] clear_sub_mission
+[ 820] clear_sub_mission_all
+[ 821] is_running_sub_mission
+[ 822] create_quest_target_npc
+[ 823] get_quest_target_npc_handle
+[ 824] register_quest_target_npc
+[ 825] register_quest_target_npc_for_dungeon
+[ 826] get_drink_sequence_state
+[ 827] check_drink_sequence_material_all
+[ 828] check_drink_sequence_material
+[ 829] give_drink_sequence_item
+[ 830] save_drink_sequence_time
+[ 831] check_drink_sequence_time
+[ 832] debug_setup_spirit_level_mission
+[ 833] debug_npc_quest_setting
+[ 834] pad_trig
+[ 835] jump_scene
+[ 836] get_prev_scene
+[ 837] get_scene_id
+[ 838] get_scene_type
+[ 839] get_zone_id
+[ 840] get_scene_jumped_tagid
+[ 841] set_flag
+[ 842] dev_test_flag
+[ 843] dev_reset_flag
+[ 844] dev_set_flag
+[ 845] dev_test_flag
+[ 846] dev_reset_flag
+[ 847] set_var
+[ 848] add_var
+[ 849] get_var
+[ 850] set_devvar
+[ 851] get_devvar
+[ 852] get_money
+[ 853] add_money
+[ 854] set_money
+[ 855] get_item_count
+[ 856] get_have_planting_seed_count
+[ 857] add_item
+[ 858] suspend_time
+[ 859] resume_time
+[ 860] is_time_suspended
+[ 861] set_time_scale
+[ 862] get_datetime
+[ 863] is_daytime
+[ 864] is_night
+[ 865] get_default_datetime
+[ 866] set_datetime
+[ 867] add_datetime
+[ 868] set_next_datetime
+[ 869] reset_next_morning
+[ 870] get_elapsed_time
+[ 871] fadein
+[ 872] fadeout
+[ 873] fade_setcolor
+[ 874] fade_clear
+[ 875] is_fade
+[ 876] clear_fade_info
+[ 877] set_timer
+[ 878] create_flagvarkey
+[ 879] set_date_notification
+[ 880] reset_date_notification
+[ 881] cancel_date_notification
+[ 882] is_date_notification_running
+[ 883] get_days_and_times_left
+[ 884] get_datetime_to_next_period
+[ 885] get_next_scene_by_phantom
+[ 886] get_zone_connect_id
+[ 887] get_scene_id_from_zone
+[ 888] load_module
+[ 889] is_module_loaded
+[ 890] load_scene_archive
+[ 891] is_scene_archive_loaded
+[ 892] find_archive
+[ 893] get_tag_point
+[ 894] get_tag_direction
+[ 895] set_enable_quicksand
+[ 896] get_save_target
+[ 897] save_to_memory
+[ 898] sync_savemem
+[ 899] save_profile
+[ 900] is_save_profie_empty
+[ 901] sync_profile
+[ 902] get_save_result
+[ 903] skippable_demo
+[ 904] demo_skip_enabled
+[ 905] set_demo_skip_fade_white
+[ 906] begin_screen_post_filter
+[ 907] end_screen_post_filter
+[ 908] set_depth_of_field
+[ 909] set_blur
+[ 910] set_scene_listener_enabeld
+[ 911] get_delta_frame
+[ 912] start_drop_item
+[ 913] lot_drop_item
+[ 914] play_bg_anim
+[ 915] pause_bg_anim
+[ 916] play_second_material_anim
+[ 917] set_flag_debug_chapter_start
+[ 918] debug_add_all_item
+[ 919] get_achievement_arg
+[ 920] check_hiero_achieve
+[ 921] achieve_notify_finish
+[ 922] vector_rotate_y
+[ 923] debug_game_pause
+[ 924] get_save_mode
+[ 925] get_random
+[ 926] set_attack_contact_in_demo
+[ 927] get_debug_change_scene_tagpoint
+[ 928] warning
+[ 929] reserve_scene_change
+[ 930] clear_scene_change
+[ 931] print_callstack
+[ 932] is_demo_skipping
+[ 933] debug_event_skip
+[ 934] pad_emulate_trigger
+[ 935] pad_emulate_hold
+[ 936] pad_emulate_l_stick
+[ 937] output_script_log
+[ 938] player_invinsivle
+[ 939] enemy_defense_zero
+[ 940] bgobj_defense_zero
+[ 941] get_cpu_gpu_percent_value
+[ 942] json_elem
+[ 943] json_elem_attr2
+[ 944] json_elem_attr6
+[ 945] push_bgm
+[ 946] pop_bgm
+[ 947] start_bgm
+[ 948] set_bgm_volume
+[ 949] set_bgm_volume_reserv
+[ 950] set_streaming_se_volume
+[ 951] start_field_bgm
+[ 952] start_bgm_middle
+[ 953] prepare_bgm
+[ 954] prepare_jingle
+[ 955] start_prepared_jingle
+[ 956] is_prepared_jingle
+[ 957] prepare_se
+[ 958] start_prepared_se
+[ 959] restart_bgm
+[ 960] stop_bgm
+[ 961] stop_bgm_by_id
+[ 962] start_jingle_bgm
+[ 963] stop_jingle_bgm
+[ 964] start_se_bgm
+[ 965] stop_se_bgm
+[ 966] play_se
+[ 967] play_se3D
+[ 968] play_se3D_handle
+[ 969] stop_se
+[ 970] stop_all_se
+[ 971] stop_all_bgm
+[ 972] stop_se_by_id
+[ 973] enable_only_system_se_play
+[ 974] disable_only_system_se_play
+[ 975] is_playing_se
+[ 976] is_playing_battlebgm
+[ 977] is_playing_bgm
+[ 978] release_enemy_sound_groups
+[ 979] load_sound_group
+[ 980] sound_group_is_loaded
+[ 981] pause_ambient_se
+[ 982] resuming_ambient_se
+[ 983] play_voice_joy
+[ 984] play_voice_greeting
+[ 985] play_voice_surprise
+[ 986] play_voice_worry
+[ 987] play_voice_blown_off
+[ 988] play_timer_se
+[ 989] stop_timer_se
+[ 990] play_center_se_streaming
+[ 991] notify_fadeout_to_sound
+[ 992] set_ambient_se_volume
+[ 993] enable_town_bgm_manage
+[ 994] disable_town_bgm_manage
+[ 995] bgm_hanamise_bulding
+[ 996] is_chaos_town_bgm
+[ 997] random_range
+[ 998] get_front_offset
+[ 999] get_around_offset
+[1000] get_building_num
+[1001] evaluate_bazzar
+[1002] get_bazzar_result
+[1003] apply_bazzar_result
+[1004] force_visible_actor_name_plate_for_bazaar
+[1005] get_zone_by_building_id
+[1006] begin_shop_layout
+[1007] get_shop_layout_param
+[1008] get_shop_layout_result
+[1009] clear_shop_layout_result
+[1010] register_town
+[1011] unregister_town
+[1012] unregister_town_by_chara_id
+[1013] debug_change_town_account_guest
+[1014] debug_change_town_account
+[1015] debug_change_town_account_rumor
+[1016] select_town_guest
+[1017] is_early_morning_visit
+[1018] select_return_guest
+[1019] get_resident_count
+[1020] get_visitor_count
+[1021] getout_from_town
+[1022] is_visited_town
+[1023] is_empty_space_in_town
+[1024] is_full_space_in_town
+[1025] calc_town_level
+[1026] get_collecting_field_id
+[1027] get_collecting_angle
+[1028] begin_fixed_camera_to_collecting_field
+[1029] get_plantcell_state
+[1030] get_plantcell_item_id
+[1031] is_collecting_field_seed_grow
+[1032] destroy_plantcell_grass
+[1033] assign_npc_to_zone_enabled
+[1034] visitor_event_finished
+[1035] change_town_env_by_zone
+[1036] change_visit_first_env
+[1037] change_town_chaos_env
+[1038] change_town_keep_chaos_env
+[1039] change_field_chaos_env
+[1040] change_visit_env
+[1041] disp_visit_notification
+[1042] get_visit_event_kind
+[1043] force_update_oasis_user
+[1044] check_with_update_oasis_user
+[1045] set_generation_nuts
+[1046] stop_npc_town_ai
+[1047] stop_npc_town_ai_by_chara_id
+[1048] debug_npc_start_town_ai
+[1049] debug_register_pencrow
+[1050] get_owner_id_array
+[1051] get_owner_id
+[1052] exist_own_shop
+[1053] exist_own_shop_by_oasis
+[1054] get_own_shop_handle
+[1055] get_resident_array_by_tribe
+[1056] get_resident_array_in_dispatch
+[1057] get_party_count_dispatch_finished
+[1058] update_return_field_to_town_by_phantom
+[1059] update_town_chaos
+[1060] clear_town_chaos
+[1061] force_town_chaos
+[1062] cannot_hold_bazaar_by_chaos
+[1063] change_keep_chaos
+[1064] clear_keep_chaos
+[1065] get_chaos_kind
+[1066] exist_chaos_grass
+[1067] is_chaos_talk
+[1068] set_skip_day_end
+[1069] get_grassland_agent_chara
+[1070] get_grassland_agent_harvest_count
+[1071] update_grassland_status
+[1072] is_exist_harvest
+[1073] is_available_add_seed
+[1074] is_last_chaos
+[1075] get_grassland_agent_property
+[1076] get_can_create_road_num
+[1077] has_stamp_card
+[1078] has_full_stamp_card
+[1079] consume_stamp_card
+[1080] will_occur_zone_lv_up
+[1081] get_oasis_warp_tag_point
+[1082] destory_actor_only_camp
+[1083] get_vendors_in_entrance
+[1084] achieve_hanamise_rank_up
+[1085] achieve_penkurou_greeting
+[1086] achieve_resident_count
+[1087] change_soil_color
+[1088] grow_the_seed
+[1089] request_update_oasis_power
+[1090] request_update_oasis_power
+[1091] save_festival_date
+[1092] update_sales_morning
+[1093] update_grass_morning
+[1094] update_bgobj_morning
+[1095] inc_smile_bad
+[1096] set_shop_category_icon
+[1097] set_camera_pitch_up_enabled
+[1098] oasis_set_visible_mesh_group
+[1099] ui_info_msg
+[1100] is_msg_finished
+[1101] set_disable_next_msg_open_se
+[1102] get_msg_result
+[1103] ui_notify_no_exit
+[1104] is_hud_anim_end
+[1105] is_ui_active
+[1106] is_visible_one_picture
+[1107] is_vendor_trade_available
+[1108] ui_activate
+[1109] ui_activate_preparation
+[1110] ui_deactivate
+[1111] ui_post
+[1112] get_ui_results
+[1113] ui_push_env
+[1114] ui_pop_env
+[1115] ui_env_finished
+[1116] register_map_symbol
+[1117] unregister_map_symbol
+[1118] refresh_map_symbol
+[1119] is_active_save_dialog
+[1120] is_end_save_dialog
+[1121] start_save_dialog
+[1122] close_save_dialog
+[1123] enable_homebutton
+[1124] disable_homebutton
+[1125] ui_info_msg
+[1126] ui_delete_info_msg
+[1127] ui_map_hide
+[1128] tutorial_icon_start
+[1129] tutorial_icon_end
+[1130] tutorial_icon_set
+[1131] is_tutorial_touch_state
+[1132] black_mask_d_start
+[1133] black_mask_d_end
+[1134] black_mask_d_simple_start
+[1135] black_mask_d_simple_end
+[1136] mapmenu_force_button
+[1137] mapmenu_force_button_end
+[1138] set_chaos_lock_gate
+[1139] set_oasis_edit_no_dialog
+[1140] set_oasis_edit_must_id
+[1141] resume_main_menu
+[1142] ui_set_hiero_fixed_panel
+[1143] get_windmagic_level
+[1144] is_windmagic_level_up
+[1145] update_town_hud_icon
+[1146] update_mix_list
+[1147] disp_hit_request
+[1148] ui_set_hud_bazaar_mode
+[1149] get_area_name_by_scene_id
+[1150] change_dungeon_map_room_pattern
+[1151] exists_new_symbol
+[1152] set_dungeon_map_symbol_rotate_y
+[1153] set_dungeon_map_symbol_offset_pos
+[1154] change_dungeon_map_room_pattern_by_phantom_id
+[1155] set_dungeon_map_room_visible
+[1156] is_town_hud_oasis_gauge_up
+[1157] is_finished_town_hud_gem_count
