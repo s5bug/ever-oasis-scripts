@@ -44,7 +44,7 @@ class BgobjActorBase {
 
     function GetLinkObjHandleArray() {
         local ret_list = []
-        local layout_id_list = GetLinkLayoutIdArray()
+        local layout_id_list = this.GetLinkLayoutIdArray()
 
         if(layout_id_list == false) {
             return ret_list;
