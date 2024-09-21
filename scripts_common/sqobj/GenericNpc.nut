@@ -219,7 +219,7 @@ class GenericNpc extends ActorBase {
     }
 
     function __TalkEvent_Grassland() {
-        __StartTownTalkAction(this.hplayer_, this.hself)
+        this.__StartTownTalkAction(this.hplayer_, this.hself)
         
         local exist_chaos = is_chaos_talk(1)
 
