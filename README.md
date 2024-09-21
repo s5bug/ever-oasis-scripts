@@ -7,9 +7,9 @@ All scripts are decompiled by hand using [squirrel-explorer](https://github.com/
 ## progress
 
 GAR archives:
-- **C**ompleted: 1
+- **C**ompleted: 3
 - In **P**rogress: 0
-- **N**ot Started: 203
+- **N**ot Started: 201
 
 | Archive                    | Status | Size   |
 |----------------------------|--------|--------|
@@ -215,5 +215,5 @@ GAR archives:
 | `hieroDungeonSpecial1.gar` | **N**  | 1920   |
 | `CharaActorTest.gar`       | **N**  | 1832   |
 | `TraderMan.gar`            | **N**  | 820    |
-| `EmptyScene.gar`           | **N**  | 404    |
-| `EvTmp.gar`                | **N**  | 324    |
+| `EmptyScene.gar`           | **C**  | 404    |
+| `EvTmp.gar`                | **C**  | 324    |

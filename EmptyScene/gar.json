@@ -1,0 +1,11 @@
+{
+    "file_types": ["unknown", "gsb"],
+    "files": [
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/EmptyScene.cnut",
+            "name": "EmptyScene",
+            "out_path": "sqobj/EmptyScene.gsb"
+        }
+    ]
+}
