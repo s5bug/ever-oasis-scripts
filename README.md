@@ -7,13 +7,13 @@ All scripts are decompiled by hand using [squirrel-explorer](https://github.com/
 ## progress
 
 GAR archives:
-- **C**ompleted: 0
-- In **P**rogress: 1
+- **C**ompleted: 1
+- In **P**rogress: 0
 - **N**ot Started: 203
 
 | Archive                    | Status | Size   |
 |----------------------------|--------|--------|
-| `scripts_common.gar`       | **P**  | 720912 |
+| `scripts_common.gar`       | **C**  | 720912 |
 | `scripts_field_common.gar` | **N**  | 427480 |
 | `DemoSet00.gar`            | **N**  | 380684 |
 | `scripts_town_common.gar`  | **N**  | 209292 |
