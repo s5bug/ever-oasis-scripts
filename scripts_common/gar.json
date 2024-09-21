@@ -1,0 +1,233 @@
+{
+    "file_types": ["unknown", "gsb"],
+    "files": [
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/app.cnut",
+            "name": "app",
+            "out_path": "sqobj/app.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/SceneBase.cnut",
+            "name": "SceneBase",
+            "out_path": "sqobj/SceneBase.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/scene_common.cnut",
+            "name": "scene_common",
+            "out_path": "sqobj/scene_common.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/ActorBase.cnut",
+            "name": "ActorBase",
+            "out_path": "sqobj/ActorBase.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/GenericNpc.cnut",
+            "name": "GenericNpc",
+            "out_path": "sqobj/GenericNpc.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/QuestNpc.cnut",
+            "name": "QuestNpc",
+            "out_path": "sqobj/QuestNpc.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/EncounterNpc.cnut",
+            "name": "EncounterNpc",
+            "out_path": "sqobj/EncounterNpc.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/VendorNpc.cnut",
+            "name": "VendorNpc",
+            "out_path": "sqobj/VendorNpc.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/DemoEventBase.cnut",
+            "name": "DemoEventBase",
+            "out_path": "sqobj/DemoEventBase.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/SaveObjActor.cnut",
+            "name": "SaveObjActor",
+            "out_path": "sqobj/SaveObjActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/Scarab.cnut",
+            "name": "Scarab",
+            "out_path": "sqobj/Scarab.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/CameraEventControl.cnut",
+            "name": "CameraEventControl",
+            "out_path": "sqobj/CameraEventControl.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/BgobjActorBase.cnut",
+            "name": "BgobjActorBase",
+            "out_path": "sqobj/BgobjActorBase.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/EventResponderActor.cnut",
+            "name": "EventResponderActor",
+            "out_path": "sqobj/EventResponderActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/BreakableActor.cnut",
+            "name": "BreakableActor",
+            "out_path": "sqobj/BreakableActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/BreakableWallActor.cnut",
+            "name": "BreakableWallActor",
+            "out_path": "sqobj/BreakableWallActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/RoomObjActor.cnut",
+            "name": "RoomObjActor",
+            "out_path": "sqobj/RoomObjActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/SandpileActor.cnut",
+            "name": "SandpileActor",
+            "out_path": "sqobj/SandpileActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/SwitchObjActor.cnut",
+            "name": "SwitchObjActor",
+            "out_path": "sqobj/SwitchObjActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/SwitchMonitorActor.cnut",
+            "name": "SwitchMonitorActor",
+            "out_path": "sqobj/SwitchMonitorActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/PortalActor.cnut",
+            "name": "PortalActor",
+            "out_path": "sqobj/PortalActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/ChaosGrassActor.cnut",
+            "name": "ChaosGrassActor",
+            "out_path": "sqobj/ChaosGrassActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/RespawnObjActor.cnut",
+            "name": "RespawnObjActor",
+            "out_path": "sqobj/RespawnObjActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/DieObjActor.cnut",
+            "name": "DieObjActor",
+            "out_path": "sqobj/DieObjActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/RoadObjActor.cnut",
+            "name": "RoadObjActor",
+            "out_path": "sqobj/RoadObjActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/KoujiMan.cnut",
+            "name": "KoujiMan",
+            "out_path": "sqobj/KoujiMan.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/EvCommon.cnut",
+            "name": "EvCommon",
+            "out_path": "sqobj/EvCommon.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/EvUa_01.cnut",
+            "name": "EvUa_01",
+            "out_path": "sqobj/EvUa_01.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/EvIkune_01.cnut",
+            "name": "EvIkune_01",
+            "out_path": "sqobj/EvIkune_01.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/EvCeruke_01.cnut",
+            "name": "EvCeruke_01",
+            "out_path": "sqobj/EvCeruke_01.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/Ebio.cnut",
+            "name": "Ebio",
+            "out_path": "sqobj/Ebio.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/Eseherc.cnut",
+            "name": "Eseherc",
+            "out_path": "sqobj/Eseherc.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/Kaera.cnut",
+            "name": "Kaera",
+            "out_path": "sqobj/Kaera.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/Miu.cnut",
+            "name": "Miu",
+            "out_path": "sqobj/Miu.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/OldmanCeruke.cnut",
+            "name": "OldmanCeruke",
+            "out_path": "sqobj/OldmanCeruke.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/OldmanRikos.cnut",
+            "name": "OldmanRikos",
+            "out_path": "sqobj/OldmanRikos.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/OldmanUa.cnut",
+            "name": "OldmanUa",
+            "out_path": "sqobj/OldmanUa.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/ui_choice.cnut",
+            "name": "ui_choice",
+            "out_path": "sqobj/ui_choice.gsb"
+        }
+    ]
+}
