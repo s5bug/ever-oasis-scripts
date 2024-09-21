@@ -1,0 +1,11 @@
+{
+    "file_types": ["unknown", "gsb"],
+    "files": [
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/CharaMaking.cnut",
+            "name": "CharaMaking",
+            "out_path": "sqobj/CharaMaking.gsb"
+        }
+    ]
+}

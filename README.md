@@ -7,9 +7,9 @@ All scripts are decompiled by hand using [squirrel-explorer](https://github.com/
 ## progress
 
 GAR archives:
-- **C**ompleted: 3
+- **C**ompleted: 4
 - In **P**rogress: 0
-- **N**ot Started: 201
+- **N**ot Started: 200
 
 | Archive                    | Status | Size   |
 |----------------------------|--------|--------|
@@ -208,7 +208,7 @@ GAR archives:
 | `hieroDungeon3Main.gar`    | **N**  | 2212   |
 | `hieroDungeon2Main.gar`    | **N**  | 2212   |
 | `hieroDungeonMain.gar`     | **N**  | 2208   |
-| `CharaMaking.gar`          | **N**  | 2196   |
+| `CharaMaking.gar`          | **C**  | 2196   |
 | `demoopening.gar`          | **N**  | 2148   |
 | `hieroDungeonSpecial3.gar` | **N**  | 1920   |
 | `hieroDungeonSpecial2.gar` | **N**  | 1920   |
