@@ -1,0 +1,347 @@
+{
+    "file_types": ["unknown", "gsb"],
+    "files": [
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/CreateWhenFlagOffActor.cnut",
+            "name": "CreateWhenFlagOffActor",
+            "out_path": "sqobj/CreateWhenFlagOffActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/CreateWhenFlagOnActor.cnut",
+            "name": "CreateWhenFlagOnActor",
+            "out_path": "sqobj/CreateWhenFlagOnActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/BossDoorResponderActor.cnut",
+            "name": "BossDoorResponderActor",
+            "out_path": "sqobj/BossDoorResponderActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/ChaosFenceActor.cnut",
+            "name": "ChaosFenceActor",
+            "out_path": "sqobj/ChaosFenceActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/GenericFenceActor.cnut",
+            "name": "GenericFenceActor",
+            "out_path": "sqobj/GenericFenceActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/ChaosForTreasureBoxActor.cnut",
+            "name": "ChaosForTreasureBoxActor",
+            "out_path": "sqobj/ChaosForTreasureBoxActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/ChaosOrbActor.cnut",
+            "name": "ChaosOrbActor",
+            "out_path": "sqobj/ChaosOrbActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/CocoonActor.cnut",
+            "name": "CocoonActor",
+            "out_path": "sqobj/CocoonActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/CollectingObjActor.cnut",
+            "name": "CollectingObjActor",
+            "out_path": "sqobj/CollectingObjActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/DoorActor.cnut",
+            "name": "DoorActor",
+            "out_path": "sqobj/DoorActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/HammerSwitchActor.cnut",
+            "name": "HammerSwitchActor",
+            "out_path": "sqobj/HammerSwitchActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/HookObjActor.cnut",
+            "name": "HookObjActor",
+            "out_path": "sqobj/HookObjActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/LightSwitchActor.cnut",
+            "name": "LightSwitchActor",
+            "out_path": "sqobj/LightSwitchActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/PieceOfPotActor.cnut",
+            "name": "PieceOfPotActor",
+            "out_path": "sqobj/PieceOfPotActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/PropellerSwitchActor.cnut",
+            "name": "PropellerSwitchActor",
+            "out_path": "sqobj/PropellerSwitchActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/ResponderSwitchActor.cnut",
+            "name": "ResponderSwitchActor",
+            "out_path": "sqobj/ResponderSwitchActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/SkillPanelActor.cnut",
+            "name": "SkillPanelActor",
+            "out_path": "sqobj/SkillPanelActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/SpearSwitchActor.cnut",
+            "name": "SpearSwitchActor",
+            "out_path": "sqobj/SpearSwitchActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/DSwordSwitchActor.cnut",
+            "name": "DSwordSwitchActor",
+            "out_path": "sqobj/DSwordSwitchActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/LeverSwitchActor.cnut",
+            "name": "LeverSwitchActor",
+            "out_path": "sqobj/LeverSwitchActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/CactusBallActor.cnut",
+            "name": "CactusBallActor",
+            "out_path": "sqobj/CactusBallActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/TreasureBoxActor.cnut",
+            "name": "TreasureBoxActor",
+            "out_path": "sqobj/TreasureBoxActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/WarpGateActor.cnut",
+            "name": "WarpGateActor",
+            "out_path": "sqobj/WarpGateActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/HieroAtlarActor.cnut",
+            "name": "HieroAtlarActor",
+            "out_path": "sqobj/HieroAtlarActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/SignPanelActor.cnut",
+            "name": "SignPanelActor",
+            "out_path": "sqobj/SignPanelActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/SpiderWebActor.cnut",
+            "name": "SpiderWebActor",
+            "out_path": "sqobj/SpiderWebActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/SimpleSwitchActor.cnut",
+            "name": "SimpleSwitchActor",
+            "out_path": "sqobj/SimpleSwitchActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/ImpactSwitchActor.cnut",
+            "name": "ImpactSwitchActor",
+            "out_path": "sqobj/ImpactSwitchActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/HammerStakeActor.cnut",
+            "name": "HammerStakeActor",
+            "out_path": "sqobj/HammerStakeActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/WeightSwitchActor.cnut",
+            "name": "WeightSwitchActor",
+            "out_path": "sqobj/WeightSwitchActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/FixedArtilleryActor.cnut",
+            "name": "FixedArtilleryActor",
+            "out_path": "sqobj/FixedArtilleryActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/HieroSymbolSwitchActor.cnut",
+            "name": "HieroSymbolSwitchActor",
+            "out_path": "sqobj/HieroSymbolSwitchActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/PropellerCactus.cnut",
+            "name": "PropellerCactus",
+            "out_path": "sqobj/PropellerCactus.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/InvisibleWallActor.cnut",
+            "name": "InvisibleWallActor",
+            "out_path": "sqobj/InvisibleWallActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/LeafWallActor.cnut",
+            "name": "LeafWallActor",
+            "out_path": "sqobj/LeafWallActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/DoorOnceActor.cnut",
+            "name": "DoorOnceActor",
+            "out_path": "sqobj/DoorOnceActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/HieroglyphStone.cnut",
+            "name": "HieroglyphStone",
+            "out_path": "sqobj/HieroglyphStone.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/HieroAltarOfLightActor.cnut",
+            "name": "HieroAltarOfLightActor",
+            "out_path": "sqobj/HieroAltarOfLightActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/EnemyGeneratorActor.cnut",
+            "name": "EnemyGeneratorActor",
+            "out_path": "sqobj/EnemyGeneratorActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/DoorWadjetActor.cnut",
+            "name": "DoorWadjetActor",
+            "out_path": "sqobj/DoorWadjetActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/FieldsCactusActor.cnut",
+            "name": "FieldsCactusActor",
+            "out_path": "sqobj/FieldsCactusActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/TotemBatteryActor.cnut",
+            "name": "TotemBatteryActor",
+            "out_path": "sqobj/TotemBatteryActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/TrapSandActor.cnut",
+            "name": "TrapSandActor",
+            "out_path": "sqobj/TrapSandActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/HieroPortalActor.cnut",
+            "name": "HieroPortalActor",
+            "out_path": "sqobj/HieroPortalActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/HieroRecoveryObjectActor.cnut",
+            "name": "HieroRecoveryObjectActor",
+            "out_path": "sqobj/HieroRecoveryObjectActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/ShinySandActor.cnut",
+            "name": "ShinySandActor",
+            "out_path": "sqobj/ShinySandActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/FlagActor.cnut",
+            "name": "FlagActor",
+            "out_path": "sqobj/FlagActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/WadjetSteleActor.cnut",
+            "name": "WadjetSteleActor",
+            "out_path": "sqobj/WadjetSteleActor.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/BgobjActorCreator.cnut",
+            "name": "BgobjActorCreator",
+            "out_path": "sqobj/BgobjActorCreator.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/FieldAndDungeonCommon.cnut",
+            "name": "FieldAndDungeonCommon",
+            "out_path": "sqobj/FieldAndDungeonCommon.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/BattleFieldBase.cnut",
+            "name": "BattleFieldBase",
+            "out_path": "sqobj/BattleFieldBase.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/DungeonUnitBase.cnut",
+            "name": "DungeonUnitBase",
+            "out_path": "sqobj/DungeonUnitBase.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/DungeonUnitControl.cnut",
+            "name": "DungeonUnitControl",
+            "out_path": "sqobj/DungeonUnitControl.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/AutoPlay.cnut",
+            "name": "AutoPlay",
+            "out_path": "sqobj/AutoPlay.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/DungeonSceneBase.cnut",
+            "name": "DungeonSceneBase",
+            "out_path": "sqobj/DungeonSceneBase.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/DungeonBasicMain.cnut",
+            "name": "DungeonBasicMain",
+            "out_path": "sqobj/DungeonBasicMain.gsb"
+        },
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/HieroDungeonBase.cnut",
+            "name": "HieroDungeonBase",
+            "out_path": "sqobj/HieroDungeonBase.gsb"
+        }
+    ]
+}
