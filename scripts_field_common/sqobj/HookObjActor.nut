@@ -4,7 +4,7 @@ class HookObjActor extends BgobjActorBase {
     action_call_back_func = null
 
     function CreateAndInit() {
-        local mode = GetBgobjMode()
+        local mode = this.GetBgobjMode()
 
         if(mode == 1) {
             this.CreateActor()

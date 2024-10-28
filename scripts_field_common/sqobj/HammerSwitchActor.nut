@@ -4,7 +4,7 @@ class HammerSwitchActor extends BgobjActorBase {
     skill_action_ = null
 
     function CreateAndInit() {
-        local bgobj_mode = GetBgobjMode()
+        local bgobj_mode = this.GetBgobjMode()
 
         if(bgobj_mode == 0) {
             this.SetSwitchMode(1)
