@@ -7,11 +7,11 @@ All scripts are decompiled by hand using [squirrel-explorer](https://github.com/
 ## progress
 
 GAR archives:
-- **C**ompleted: 5
+- **C**ompleted: 11
 - In **P**rogress: 0
-- **N**ot Started: 199
+- **N**ot Started: 193
 
-Bytes completed: `1151316/6083932` ≈ 18.92%
+Bytes completed: `1161876/6083932` ≈ 19.1%
 
 | Archive                    | Status | Size   |
 |----------------------------|--------|--------|
@@ -211,11 +211,11 @@ Bytes completed: `1151316/6083932` ≈ 18.92%
 | `hieroDungeon2Main.gar`    | **N**  | 2212   |
 | `hieroDungeonMain.gar`     | **N**  | 2208   |
 | `CharaMaking.gar`          | **C**  | 2196   |
-| `demoopening.gar`          | **N**  | 2148   |
-| `hieroDungeonSpecial3.gar` | **N**  | 1920   |
-| `hieroDungeonSpecial2.gar` | **N**  | 1920   |
-| `hieroDungeonSpecial1.gar` | **N**  | 1920   |
-| `CharaActorTest.gar`       | **N**  | 1832   |
-| `TraderMan.gar`            | **N**  | 820    |
+| `demoopening.gar`          | **C**  | 2148   |
+| `hieroDungeonSpecial3.gar` | **C**  | 1920   |
+| `hieroDungeonSpecial2.gar` | **C**  | 1920   |
+| `hieroDungeonSpecial1.gar` | **C**  | 1920   |
+| `CharaActorTest.gar`       | **C**  | 1832   |
+| `TraderMan.gar`            | **C**  | 820    |
 | `EmptyScene.gar`           | **C**  | 404    |
 | `EvTmp.gar`                | **C**  | 324    |

@@ -1,0 +1,11 @@
+{
+    "file_types": ["unknown", "gsb"],
+    "files": [
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/hieroDungeonSpecial3.cnut",
+            "name": "hieroDungeonSpecial3",
+            "out_path": "sqobj/hieroDungeonSpecial3.gsb"
+        }
+    ]
+}

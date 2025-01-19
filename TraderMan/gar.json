@@ -1,0 +1,11 @@
+{
+    "file_types": ["unknown", "gsb"],
+    "files": [
+        {
+            "file_type": "gsb",
+            "in_path": "./sqobj/TraderMan.cnut",
+            "name": "TraderMan",
+            "out_path": "sqobj/TraderMan.gsb"
+        }
+    ]
+}
