@@ -6,6 +6,8 @@ All scripts are decompiled by hand using [squirrel-explorer](https://github.com/
 
 ## progress
 
+### 1.0U (CTR-P-BAGE)
+
 GAR archives:
 - **C**ompleted: 11
 - In **P**rogress: 0
@@ -219,3 +221,7 @@ Bytes completed: `1161876/6083932` ≈ 19.1%
 | `TraderMan.gar`            | **C**  | 820    |
 | `EmptyScene.gar`           | **C**  | 404    |
 | `EvTmp.gar`                | **C**  | 324    |
+
+### 1.1U (CTR-U-BAGE)
+
+Not yet extracted.
